@@ -16,7 +16,6 @@ The assignment is composed of three parts:
 2. Execute a list of orders, according to a second file.
 3. Print a summary in a third file.
 
-```
 ## 2 Building the Database
 
 You will store the database file at database.db.
